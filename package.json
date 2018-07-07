@@ -25,6 +25,11 @@
   "dependencies": {
     "ivy-cli": "^1.1.1",
     "ivyframework": "^0.6.0",
-    "serverless": "^1.28.0"
+    "microdose": "^0.6.42",
+    "restify": "^7.2.1",
+    "restify-clients": "^2.2.0",
+    "restling": "^0.9.1",
+    "serverless": "^1.28.0",
+    "sqlite3": "^4.0.1"
   }
 }
